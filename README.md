@@ -1,4 +1,4 @@
 # learning-python
 I am Learning python daily.
 <br>
-Auther - Nira khanal
+Auther - Nira (learning-python)
