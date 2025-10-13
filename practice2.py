@@ -23,3 +23,15 @@ a = 34
 b = 80
 c = a > b
 print(c) 
+
+#5 Write a python program to find an average of two numbers entered by the user
+#Ans
+a = int(input("Enter number 1: "))
+b = int(input("Enter number 2: "))
+print("The average of these two number is", (a+b)/2)
+
+#6 Write a python program to calculate the square of a number entered by the user
+#Ans
+a = int(input("Enter your number: "))
+print("The square of the number is", a**2)
+print("The square of the number is", a*a)
